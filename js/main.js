@@ -72,7 +72,6 @@ function getMathFetch() {
 
 // Get date related facts
 function getDateFetch() {
-    let dateInput = document.querySelector('#dateInput');
     let date = dateInput.value;
 
     fetch('http://numbersapi.com/' + date + '/date')
