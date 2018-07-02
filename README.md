@@ -16,6 +16,7 @@ This app uses the [Numbers API](http://numbersapi.com/#42) to randomly generate 
 This app uses Bootstrap 4 for the basic user interface. 
 
 ##### Todos
++ Improve the interface and general style;
 + Add more value validation methods;
 + Replace Bootstrap with React;
 + Implement new functionalities;
